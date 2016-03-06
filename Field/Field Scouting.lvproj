@@ -10,7 +10,7 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="favicon.ico" Type="Document" URL="../../../../Desktop/favicon.ico"/>
+		<Item Name="BeanieBot.ico" Type="Document" URL="../BeanieBot.ico"/>
 		<Item Name="FieldScouting.vi" Type="VI" URL="../FieldScouting.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
@@ -35,7 +35,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{FC7B931E-0FA2-4F85-A10B-E46566F28D25}</Property>
-				<Property Name="Bld_version.build" Type="Int">2</Property>
+				<Property Name="Bld_version.build" Type="Int">3</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Field Scouting.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../Builds/Scouting/NI_AB_PROJECTNAME/Field Scouting.exe</Property>
@@ -46,7 +46,8 @@
 				<Property Name="Destination[1].path" Type="Path">../Builds/Scouting/NI_AB_PROJECTNAME/data</Property>
 				<Property Name="Destination[1].path.type" Type="Str">relativeToProject</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{BD8CD7A3-D992-4AC7-AFB9-60EE4FCDF97E}</Property>
+				<Property Name="Exe_iconItemID" Type="Ref">/My Computer/BeanieBot.ico</Property>
+				<Property Name="Source[0].itemID" Type="Str">{2D9D5638-95C3-4C0A-9DB2-6894E0F40B7D}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/FieldScouting.vi</Property>
@@ -61,7 +62,7 @@
 				<Property Name="TgtF_targetfileGUID" Type="Str">{5A012E4D-5A34-4524-99D1-3D0EDCE98445}</Property>
 				<Property Name="TgtF_targetfileName" Type="Str">Field Scouting.exe</Property>
 			</Item>
-			<Item Name="My Installer" Type="Installer">
+			<Item Name="Field Scouting Installer" Type="Installer">
 				<Property Name="Destination[0].name" Type="Str">Field Scouting</Property>
 				<Property Name="Destination[0].parent" Type="Str">{3912416A-D2E5-411B-AFEE-B63654D690C0}</Property>
 				<Property Name="Destination[0].tag" Type="Str">{573E19F3-919E-4AA1-9003-228AA6BF4B1B}</Property>
@@ -114,12 +115,12 @@
 				<Property Name="DistPartCount" Type="Int">1</Property>
 				<Property Name="INST_author" Type="Str">Putnam Area Robotic Team</Property>
 				<Property Name="INST_autoIncrement" Type="Bool">true</Property>
-				<Property Name="INST_buildLocation" Type="Path">../2016-Scouting/Builds/Scouting Installer/Field Scouting</Property>
+				<Property Name="INST_buildLocation" Type="Path">../Field/Builds/Installer/Field Scouting</Property>
 				<Property Name="INST_buildLocation.type" Type="Str">relativeToCommon</Property>
-				<Property Name="INST_buildSpecName" Type="Str">My Installer</Property>
+				<Property Name="INST_buildSpecName" Type="Str">Field Scouting Installer</Property>
 				<Property Name="INST_defaultDir" Type="Str">{573E19F3-919E-4AA1-9003-228AA6BF4B1B}</Property>
 				<Property Name="INST_productName" Type="Str">Field Scouting</Property>
-				<Property Name="INST_productVersion" Type="Str">1.0.1</Property>
+				<Property Name="INST_productVersion" Type="Str">1.0.2</Property>
 				<Property Name="InstSpecBitness" Type="Str">32-bit</Property>
 				<Property Name="InstSpecVersion" Type="Str">15008029</Property>
 				<Property Name="MSI_arpCompany" Type="Str">Putnam Area Robotic Team</Property>
