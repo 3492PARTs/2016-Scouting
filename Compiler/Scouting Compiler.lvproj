@@ -13,7 +13,7 @@
 		<Item Name="Wires" Type="Folder" URL="../Wires">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
-		<Item Name="Organize Scouting Data.vi" Type="VI" URL="../Organize Scouting Data.vi"/>
+		<Item Name="Scouting Compiler.vi" Type="VI" URL="../Scouting Compiler.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Get System Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/sysdir.llb/Get System Directory.vi"/>
