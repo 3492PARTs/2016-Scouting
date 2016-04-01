@@ -1,0 +1,51 @@
+6547,west coast,Yes = low bar high goal,No,Yes,Yes,Yes,Yes,Yes,Yes,,Pnuematic,8 Inch,4,Shooter,Fast High goal shooter/  good intake,Yes,Yes
+4284,Arcade dive,Yes. Cross moat ,Yes,Yes,Yes,Yes,No,Yes,No,,plaction,8 Inch,6,Outerworks,Fast at Portaullis and cheval,Yes,Yes
+1708,Pnumatic ,Yes, All defenses,Yes,Yes,Yes,Yes,Yes,Yes,Yes,,Pnumatic  and traction,8 Inch,4,Outerworks,Defense,Yes,Yes
+4521,Treads tank drive,Yes. Drive forward can clear obstcale,No,No,Yes,Yes,Yes,Yes,Yes,,Tank treads,8 cm,6,Defensive,Versitility, Nice feeding system,Yes,No
+1308,tank,yes driv3 over defense,Yes,Yes,Yes,Yes,Yes,Yes,Yes,,pneumatic,12 cm,4,Outerworks,drive train speed and atv,Yes,Yes
+1014,tank drive 6 wheel,yes, every defense,Yes,Yes,Yes,Yes,Yes,Yes,Yes,B,pneumatic,6 Inch,4,Defensive,low to ground, can clear everything,Yes,No
+4920,6 wheel tank,no,No,Yes,Yes,Yes,No,Yes,No,B,mecanum,6 cm,6,Shooter,climb, and shoot,Yes,Yes
+1038,6 wheel tank drive,yes low bar and shoot, and cross most outerworks,Yes,Yes,Yes,Yes,No,Yes,Yes,B,pneumatic,8 cm,4,Shooter,versatile, climber,Yes,No
+1249,tank drive 6 wheel,no,No,Yes,Yes,Yes,No,Yes,No,L,pneumatic,4 Inch,4,Defensive,no comment,Yes,No
+5492,Articule,Yes. Straight, low bar ,No,Yes,Yes,Yes,No,Yes,Yes,B,Omni plaction,8 Inch,2,Outerworks,Wheels and drive train and scaling,Yes,No
+554,?,Yes. Low bar, Portculis, Moat Rough,Yes,Yes,Yes,Yes,No,Yes,Yes,L,Pnumatic,8 Inch,4,Outerworks,Shooting ,Yes,No
+5484,tank,yes. under low bar, rough, can shoot,Yes,Yes,Yes,Yes,Yes,Yes,Yes,B,treads,0 Inch,4,Outerworks,Durable, strong,,Yes,Yes
+868,8 wheel pnumatic,Shoot high all defenses,Yes,Yes,Yes,Yes,No,Yes,Yes,B,pnumatic,8 Inch,6,Shooter,Auto Aim, 4/5 hit,Yes,No
+5413,Tank,All defenses but lowbar,Yes,Yes,Yes,Yes,Yes,Yes,No,H,Pnuematic,8 Inch,6,Shooter,,Yes,Yes
+279,tank 6 pulley tread,yes each defense autonomous,Yes,Yes,Yes,Yes,Yes,Yes,No,L,tank tread,6 Inch,4,Outerworks,strong autonoumous tilt detecting,Yes,Yes
+337,tank drive six wheel,cat a and cat b defenses,Yes,Yes,Yes,Yes,Yes,Yes,No,L,omni pnuematic plaction sets,12 cm,5,Outerworks,versatile anti flip and portcullis bar,Yes,Yes
+5667,taank drive 6 wheel,all terrain obstacles,Yes,Yes,Yes,Yes,No,Yes,No,H,pnuematic,6 Inch,4,Outerworks,good catapult shooter,Yes,Yes
+451,6 wheel tank drive,cross lowbar rampsart rocikwall and rough terrain,Yes,Yes,Yes,Yes,Yes,Yes,Yes,L,pnuematic,9 Inch,4,Outerworks,can take down all defenses as well as ball blocker,Yes,Yes
+5809,All wheel,Yes. Vreach defenses,No,Yes,Yes,Yes,Yes,Yes,No,L,phunmatic,8 Inch,4,Outerworks,Flexible,Yes,Yes
+3138,6 wheeed pnumatic tank drive,Yes,  Any defenses cross rock wall,No,Yes,No,No,Yes,No,No,B,pNUMATIC,8 Inch,4,Outerworks,Breaching fast,No,No
+144,tank drive,yes. moat low bar/ shooting low goals crossing,Yes,Yes,Yes,Yes,Yes,No,Yes,B,tank treads,0 cm,4,Shooter,climb,Yes,Yes
+6084,tank drive,yes. move up and back,No,No,Yes,Yes,Yes,Yes,Yes,L,treads,0 cm,4,Outerworks,Passing gates,Yes,Yes
+5811,arcade,yes, all ground, low goal,Yes,Yes,Yes,Yes,Yes,Yes,Yes,L,pnumatic,8 Inch,4,Outerworks,fexiblity but not high goals,Yes,No
+3266,6 whell tank,development,No,Yes,Yes,Yes,No,No,Yes,B,pnenu,8 Inch,4,Shooter,the camera wheels,Yes,No
+3260,6 west coast,can cover most if not all def and working on shoot,Yes,No,No,Yes,Yes,Yes,Yes,B,pnu,7 Inch,4,Shooter,shooting,Yes,Yes
+3484,tank drive,spy to lowbar,No,Yes,No,No,Yes,No,Yes,L,basic kit,0 cm,6,Shooter,speed,No,No
+3324,6 wheel omni front pnu 8 back,backs up over passive terr,No,Yes,Yes,Yes,Yes,Yes,Yes,L,omni ,6 Inch,4,Outerworks,fast cycling,Yes,Yes
+3504,6 wheel draft,lowbar turn terrain rockwall,Yes,Yes,Yes,Yes,Yes,Yes,Yes,L,colson,8 Inch,4,Defensive,fast stable,Yes,Yes
+245,custom 8 in wheel,move and cross chasasis def,Yes,Yes,Yes,Yes,Yes,Yes,No,H,,8 Inch,4,Shooter,organized ,Yes,Yes
+3201,6 wheel,cover defen,Yes,No,Yes,Yes,Yes,Yes,No,L,pnu,10 Inch,5,Outerworks,speed,No,No
+3821,tank,shoot in high ,Yes,Yes,Yes,No,Yes,Yes,No,B,rubber basic ,8 Inch,4,Shooter,shooting climbing,Yes,No
+2603,6wheel,lowbar passive ,No,No,Yes,Yes,No,Yes,Yes,B,rubber,8 Inch,6,Shooter,shhot fast highj goal,Yes,No
+3010,6 wheel,all but port and low,Yes,Yes,Yes,Yes,Yes,Yes,No,B,pnu,8 Inch,6,Shooter,cooperative ,Yes,Yes
+3000,tank belt,no,Yes,No,Yes,Yes,No,Yes,No,L,treds,0 cm,6,Defensive,climb,Yes,No
+3777,tankl,yes low bar,Yes,Yes,Yes,Yes,No,Yes,Yes,L,rubber,6 Inch,4,Shooter,speed,Yes,No
+2051,6 wheel belt,yes static def cross,Yes,Yes,Yes,Yes,No,Yes,Yes,L,pnu,8 Inch,5,Outerworks,speed on def,Yes,No
+4085,tank,all def but moving,Yes,Yes,Yes,Yes,Yes,Yes,Yes,L,pnu,8 Inch,6,Outerworks,scaling well,Yes,Yes
+2399,tank wagon,drive overe nonmoving,Yes,Yes,Yes,Yes,Yes,Yes,No,L,wagon,0 cm,4,Outerworks,wheels,Yes,No
+4028,tank up arch,passive def  band shoot as spy,No,Yes,Yes,Yes,Yes,Yes,No,H,pnu,8 Inch,6,Shooter,shooting puma,Yes,No
+2408,tank 6 wheel,neutral cover b and d,No,No,Yes,Yes,No,Yes,No,B,rubber,8 cm,4,Shooter,shooter,Yes,No
+2040,6 wheel ,over def staticd,Yes,Yes,Yes,Yes,No,Yes,Yes,H,pnu ,8 Inch,5,Shooter,good shooting 3  cam,Yes,No
+1939,6 wheel ,cover def static,Yes,Yes,Yes,Yes,No,Yes,Yes,L,pnu,8 Inch,4,Outerworks,fast cycling,Yes,No
+4256,tank,lowbar corner shot cat 6,Yes,Yes,Yes,Yes,No,Yes,Yes,B,pnu,0 Inch,6,Shooter,shooting angle alignment,Yes,No
+1985,tank 6 wheel,lowbar and no cat c or chev,Yes,Yes,Yes,Yes,No,Yes,Yes,L,tred and rubber,6 Inch,4,Outerworks,claw  and hang arms,Yes,No
+2016,8 wheel ktank ,every def static,Yes,Yes,Yes,Yes,No,Yes,Yes,B,skyway,775 Inch,4,Outerworks,drive train,Yes,No
+4213,pnu tank,go over def and shoot,No,Yes,Yes,Yes,Yes,Yes,Yes,B,pnu,8 Inch,4,Outerworks,accurate,Yes,Yes
+4145,tank 6 wheel,cross but por sAL draw ,Yes,Yes,Yes,Yes,Yes,Yes,Yes,B,pnu,8 Inch,6,Outerworks,fast and versitile,Yes,Yes
+6185,6 wheel ytank,no,No,No,Yes,Yes,No,Yes,Yes,L,rubber,6 cm,4,Outerworks,speed,No,No
+63,tracks,cover all def but draw,Yes,Yes,Yes,Yes,Yes,Yes,Yes,L,tracks,0 cm,6,breach and shoot,adaptable,Yes,Yes
+3814,two tank treds,moat shev rough approach all,Yes,Yes,Yes,No,Yes,Yes,No,L,treds,0 cm,6,alliance bot vers,climbung arms,No,Yes
+6666,east coast,nothin,No,No,No,No,No,No,No,mid,wings,72 Inch,2,akbah,it can fly,No,No
