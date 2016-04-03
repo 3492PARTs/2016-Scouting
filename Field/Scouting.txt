@@ -1,0 +1,277 @@
+0868,N/A,Tele Pass,Auto Pass,N/A,N/A,Did Not,Did Not,N/A,Did Not,0,0,No,2,0,Yes,Auto Touch,2,
+4145,N/A,Tele Pass,N/A,Did Not,N/A,Did Not,Tele Pass,N/A,Auto Pass,0,0,No,0,0,No,Auto Touch,1,tried high goal auto/ attempted low goal
+1249,N/A,Did Not,N/A,Did Not,Did Not,N/A,Did Not,N/A,Did Not,0,0,No,0,0,No,Did Not,1,Picked up a ball/ bad driving
+6185,N/A,Did Not,Did Not,N/A,N/A,Did Not,Did Not,N/A,Did Not,0,0,No,0,0,No,Did Not,1,Tried to go across low bar and started slamming against the sides and stopped moving 
+5749,N/A,Did Not,N/A,Tele Pass,Did Not,N/A,Did Not,N/A,Auto Pass,0,0,No,0,0,Yes,Auto Touch,2,Nearly got stuck on ramparts and can't stay on low goal area/ lost connection at end 
+4213,N/A,Did Not,N/A,Did Not,N/A,Did Not,Did Not,N/A,Auto Pass,0,0,No,2,0,Yes,Auto Touch,1,Attempted auto high goal/ good shooting
+1708,N/A,Did Not,N/A,Did Not,Did Not,N/A,Did Not,N/A,Auto Pass,0,0,No,0,2,Yes,Auto Touch,1,Working on robot before match on field/ ball kept flipping up on top of their robot 
+2051,N/A,Did Not,Did Not,N/A,N/A,Did Not,Did Not,N/A,Did Not,0,0,No,0,0,No,Did Not,1,Did nothing.
+3266,N/A,Did Not,N/A,Did Not,N/A,Did Not,Did Not,N/A,Did Not,0,0,No,0,0,No,Did Not,1,Did nothing
+0337,N/A,Did Not,N/A,Auto Pass,N/A,Tele Pass,N/A,Tele Pass,Did Not,0,0,Yes,0,2,Yes,Auto Touch,5,Excellent
+3010,N/A,Did Not,N/A,Did Not,Did Not,N/A,Did Not,N/A,Did Not,0,0,No,0,0,Yes,Auto Touch,2,Got stuck in Auto
+4028,N/A,Did Not,N/A,Auto Pass,N/A,Did Not,N/A,Did Not,Did Not,0,0,No,5,0,Yes,Did Not,9,Shooting is insane
+0451,N/A,Did Not,N/A,Tele Pass,N/A,Did Not,Did Not,N/A,Did Not,0,0,No,0,0,No,Auto Touch,5,Most likely they have bad drivers
+3324,N/A,Tele Pass,Tele Pass,N/A,N/A,Tele Pass,Tele Pass,N/A,Tele Pass,0,0,No,0,2,Yes,Auto Touch,1,Fast and has a good driver
+3814,N/A,Can't,N/A,Can't,N/A,Can't,N/A,Can't,,,0,0,No,0,0,No, Did Not ,1,Lost Connection
+1308,N/A,Can't,N/A,Tele Pass,Tele Pass,N/A,Can't,N/A,Tele Pass,0,0,No,0,0,Yes,Auto Touch,1,Held Open The Draw Bridge and then Wedge there teammate into the Bridge!
+2408,N/A,Can't,Can't,N/A,N/A,Can't,Can't,N/A,,,0,0,No,0,0,Yes, Did Not ,1,Lost Connection
+3777,N/A,Can't,N/A,Tele Pass,Can't,N/A,Can't,N/A,,,0,0,No,0,1,Yes,Auto Touch,1,Very Slow at picking up balls. Has alot of Difficulty adjusting and aiming
+245,N/A,Can't,N/A,Auto Pass,N/A,Can't,Can't,N/A,,,0,0,No,5,0,Yes, Did Not ,6,Reliable shooter. Very Good shooter but seem only seem to go through the rampart
+63,N/A,Tele Pass,N/A,Can't,Can't,N/A,Tele Pass,N/A,,,0,0,Yes,0,1,Yes,Auto Touch,3,LOses the ball sometimes even while holding it
+0046,Did Not,N/A,N/A,Tele Pass,N/A,Tele Pass,Did Not,N/A,Auto Pass,0,0,No,3,0,Yes,Auto Touch,6,Attempted high goal in auto 
+0554,Did Not,N/A,N/A,Tele Pass,N/A,Did Not,N/A,Did Not,Auto Pass,0,0,No,0,0,Yes,Auto Touch,1,Almost had a low goal in auto/ got stuck on glass at end
+5484,N/A,Did Not,N/A,Did Not,Tele Pass,N/A,Did Not,N/A,Auto Pass,0,0,No,1,0,Yes,Did Not,1,
+5413,N/A,Did Not,N/A,Tele Pass,Tele Pass,N/A,Auto Pass,N/A,Did Not,0,0,Yes,1,0,Yes,Auto Touch,7,good
+3821,Did Not,N/A,N/A,Did Not,N/A,Did Not,Did Not,N/A,Did Not,0,0,No,0,0,No,Did Not,1,Didn't move 
+6084,Did Not,N/A,Tele Pass,N/A,N/A,Tele Pass,Did Not,N/A,Auto Pass,0,0,No,0,0,Yes,Auto Touch,4,Can't shoot/ was defending 
+0046,Did Not,N/A,Did Not,N/A,N/A,Tele Pass,Did Not,N/A,Auto Pass,0,0,No,1,0,Yes,Auto Touch,1,Tried to get auto high goal
+0144,N/A,Did Not,Did Not,N/A,N/A,Did Not,Did Not,N/A,Auto Pass,0,0,No,0,1,Yes,Auto Touch,2,one side died on it 
+1249,N/A,Did Not,Tele Pass,N/A,N/A,Did Not,N/A,Did Not,Did Not,0,0,No,0,0,No,Did Not,1,
+2399,N/A,Tele Pass,N/A,Tele Pass,N/A,Tele Pass,Auto Pass,N/A,Did Not,0,0,No,0,1,Yes,Did Not,7,good control
+5667,Did Not,N/A,Auto Pass,N/A,N/A,Did Not,Tele Pass,N/A,Did Not,0,0,No,1,0,Yes,Did Not,1,jittery bad driving 
+0128,N/A,Did Not,N/A,Did Not,N/A,Tele Pass,Tele Pass,N/A,Did Not,0,0,No,1,1,Yes,Auto Touch,4,
+0000,Did Not,N/A,N/A,Tele Pass,N/A,Did Not,Tele Pass,N/A,Did Not,0,0,Yes,0,2,No,Auto Touch,7,
+48,N/A,Can't,Tele Pass,N/A,N/A,Tele Pass,Tele Pass,N/A,Auto Pass,0,0,No,3,0,Yes,Auto Touch,9,Did a lot, took out almost all the defenses by itself.
+0005,N/A,Auto Pass,N/A,Tele Pass,N/A,Did Not,N/A,Auto Pass,Did Not,0,0,No,0,0,No,Did Not,1,
+2399,N/A,Did Not,N/A,Tele Pass,N/A,Tele Pass,N/A,Auto Pass,Tele Pass,0,0,No,0,2,Yes,Did Not,8,ended with a ball but teams took sides from them has cool wagon wheels
+5809,N/A,Did Not,N/A,Tele Pass,Did Not,N/A,Auto Pass,N/A,Did Not,0,0,No,0,1,Yes,Did Not,5,opened drawbridge for allies
+3814,N/A,Did Not,N/A,Did Not,N/A,Did Not,N/A,Tele Pass,Did Not,0,0,Yes,5,2,No,Auto Touch,1,
+2016,N/A,Auto Pass,N/A,Did Not,N/A,Did Not,Auto Pass,N/A,Did Not,0,0,No,0,1,Yes,Did Not,1,
+144,N/A,Can't,N/A,Can't,N/A,Can't,Can't,N/A,Tele Pass,0,0,No,0,1,Yes,Auto Touch,4,Did ok had response problems late in match
+1014,N/A,Tele Pass,N/A,Tele Pass,N/A,Can't,N/A,Can't,Tele Pass,0,0,No,1,2,Yes, Did Not ,7,fast and efficient bot
+868,N/A,Can't,N/A,Tele Pass,Tele Pass,N/A,Can't,N/A,Auto Pass,0,0,No,6,0,Yes,Auto Touch,9,Really good lots of high goals
+3484,N/A,Tele Pass,N/A,Can't,N/A,Tele Pass,N/A,Can't,Tele Pass,0,0,No,0,1,No, Did Not ,6,broke shooter during match, took out most defenses
+4115,N/A,Can't,N/A,Can't,N/A,Can't,Can't,N/A,Auto Pass,0,0,No,0,0,Yes,Auto Touch,3,Bad connection problems
+5492,N/A,Did Not,N/A,Did Not,N/A,Did Not,Did Not,N/A,Tele Pass,0,0,Yes,0,5,No,Did Not,1,
+4085,N/A,Tele Pass,Did Not,N/A,Did Not,N/A,Tele Pass,N/A,Auto Pass,0,0,Yes,0,0,Yes,Did Not,3,
+4115,N/A,Did Not,Auto Pass,N/A,N/A,Did Not,Did Not,N/A,Did Not,0,0,No,0,0,Yes,Auto Touch,1,
+5484,N/A,Did Not,Did Not,N/A,Did Not,N/A,Did Not,N/A,Auto Pass,0,0,No,4,0,Yes,Did Not,5,
+1939,N/A,Did Not,N/A,Did Not,N/A,Did Not,Tele Pass,N/A,Auto Pass,0,0,No,0,1,Yes,Did Not,2,
+2016,N/A,Tele Pass,N/A,Did Not,N/A,Tele Pass,Tele Pass,N/A,Auto Pass,0,0,No,0,2,Yes,Did Not,1,
+4521,N/A,Did Not,Did Not,N/A,N/A,Did Not,Did Not,N/A,Auto Pass,0,0,No,0,0,Yes,Did Not,1,
+4920,N/A,Did Not,N/A,Did Not,Did Not,N/A,Did Not,N/A,Did Not,0,0,No,0,0,No,Did Not,0,Decent design.  Didn't move at all.   Lost connection.
+1985,N/A,Auto Pass,N/A,Auto Pass,Auto Pass,N/A,Did Not,N/A,Auto Pass,0,1,No,0,0,Yes,Auto Touch,7,Good at the defenses but did not go for that many choices
+1038,N/A,Auto Pass,N/A,Did Not,N/A,Auto Pass,Did Not,N/A,Auto Pass,0,0,No,0,0,Yes,Auto Touch,1,had a good shooter though aim was a little off and had a scaling arm just did not have the time
+0120,Did Not,N/A,N/A,Did Not,N/A,Did Not,Did Not,N/A,Auto Pass,4,0,No,0,0,Yes,Auto Touch,7,had a excellent shooter just did not attempt breaking defenses but had the potential to do so
+5749,N/A,Did Not,N/A,Did Not,N/A,Did Not,N/A,Did Not,Auto Pass,0,2,No,0,0,Yes,Auto Touch,4,had a decent design but had a weak drive train and only went low bar though they could make a low goal fairly well
+451,N/A,Can't,N/A,Can't,N/A,Can't,Auto Pass,N/A,,,0,0,No,0,0,Yes, Did Not ,4,
+5413,N/A,Can't,Can't,N/A,Tele Pass,N/A,Auto Pass,N/A,,,0,0,No,4,0,Yes, Did Not ,8,
+3201,N/A,Can't,Tele Pass,N/A,N/A,Can't,Auto Pass,N/A,,,0,0,No,0,0,Yes, Did Not ,4,
+554,N/A,Can't,Can't,N/A,Can't,N/A,Can't,N/A,,,0,0,No,0,0,Yes, Did Not ,1,
+5667,N/A,Can't,N/A,Auto Pass,N/A,Tele Pass,Tele Pass,N/A,,,0,0,No,0,0,Yes, Did Not ,5,
+4284,N/A,Can't,N/A,Can't,N/A,Can't,Can't,N/A,,,0,0,No,0,0,Yes, Did Not ,2,
+2040,N/A,Can't,Can't,N/A,N/A,Can't,Auto Pass,N/A,,,0,0,No,0,0,Yes, Did Not ,4,
+3000,N/A,Can't,N/A,Can't,Can't,N/A,Can't,N/A,,,0,0,No,0,0,No, Did Not ,0,lost connection and did nothing throughout the match
+3821,N/A,Can't,Can't,N/A,Tele Pass,N/A,Can't,N/A,,,0,0,No,0,0,Yes, Did Not ,3,
+2408,N/A,Can't,N/A,Auto Pass,N/A,Can't,Can't,N/A,,,0,0,No,0,1,Yes,Auto Touch,5,
+3324,N/A,Can't,N/A,Auto Pass,N/A,Tele Pass,Can't,N/A,,,0,0,No,0,1,Yes,Auto Touch,6,
+3777,N/A,Can't,N/A,Tele Pass,N/A,Can't,Can't,N/A,Tele Pass,0,0,No,0,2,Yes,Auto Touch,7,
+2603,N/A,Did Not,N/A,Did Not,N/A,Did Not,Did Not,N/A,Auto Pass,0,4,No,0,0,Yes,Did Not,5,good low goal shooter
+5667,N/A,Can't,N/A,Tele Pass,Can't,N/A,Tele Pass,N/A,,,0,0,No,1,0,Yes,Auto Touch,5,
+3504,N/A,Can't,N/A,Can't,N/A,Can't,N/A,Can't,Tele Pass,0,0,No,0,0,No, Did Not ,1,
+3000,N/A,Can't,N/A,Can't,N/A,Can't,N/A,Can't,,,0,0,No,0,0,No, Did Not ,1,
+3777,N/A,Can't,Can't,N/A,N/A,Can't,Can't,N/A,Auto Pass,0,0,No,0,0,No, Did Not ,1,
+1939,Can't,N/A,N/A,Can't,N/A,Can't,N/A,Can't,Auto Pass,0,0,No,0,0,No, Did Not ,1,
+4145,N/A,Can't,Can't,N/A,N/A,Can't,Can't,N/A,Auto Pass,3,1,No,0,0,No, Did Not ,1,
+2040,N/A,Can't,Tele Pass,N/A,N/A,Can't,N/A,Auto Pass,,,0,0,No,0,1,Yes,Auto Touch,6,Defense bot
+1985,N/A,Can't,N/A,Auto Pass,N/A,Can't,N/A,Can't,,,0,1,No,0,0,Yes,Auto Touch,5,good at first robot died mid game
+1308,Tele Pass,N/A,Tele Pass,N/A,N/A,Tele Pass,Auto Pass,N/A,,,0,0,No,0,2,Yes,Auto Touch,7,good defense bot driving questionable
+4085,N/A,Can't,N/A,Can't,N/A,Can't,N/A,Tele Pass,Auto Pass,0,0,No,0,1,Yes,Auto Touch,7,Overall ok team
+1038,Did Not,N/A,N/A,Tele Pass,N/A,Did Not,Tele Pass,N/A,Tele Pass,0,0,No,0,1,No,Did Not,1,lost a bumper shot balls at coach generally incompetent
+3266,Did Not,N/A,N/A,Did Not,N/A,Did Not,N/A,Auto Pass,Did Not,0,0,No,0,0,Yes,Auto Touch,2,incompetent and seems generally confused on field. wnders round not doing much.
+5492,N/A,Did Not,N/A,Did Not,Tele Pass,N/A,Tele Pass,N/A,Did Not,0,0,No,3,0,Yes,Did Not,8,competent shooter and strategic team player
+0128,N/A,Did Not,N/A,Did Not,N/A,Did Not,Did Not,N/A,Did Not,0,0,No,0,0,No,Did Not,1,disabled for frame or comm isues
+2399,Did Not,N/A,N/A,Tele Pass,N/A,Did Not,Auto Pass,N/A,Did Not,0,0,No,0,3,Yes,Auto Touch,6,semi reliable breacher and competent low goal shooter
+5311,Tele Pass,N/A,Did Not,N/A,N/A,Did Not,Auto Pass,N/A,Did Not,0,0,No,0,3,Yes,Did Not,7,very fast and methodical breacher / low goal shooter
+3266,Did Not,N/A,Tele Pass,N/A,N/A,Did Not,Tele Pass,N/A,Did Not,0,0,No,0,0,No,Did Not,4,good breacher
+0337,N/A,Tele Pass,Did Not,N/A,N/A,Did Not,Auto Pass,N/A,Did Not,0,0,Yes,0,1,Yes,Auto Touch,1,
+4521,N/A,Did Not,N/A,Did Not,N/A,Tele Pass,Tele Pass,N/A,Did Not,0,0,No,0,1,Yes,Auto Touch,5,needed help with sally port
+3138,N/A,Tele Pass,Did Not,N/A,N/A,Did Not,Tele Pass,N/A,Did Not,0,0,No,0,2,Yes,Auto Touch,5,
+5413,N/A,Tele Pass,Did Not,N/A,N/A,Did Not,Auto Pass,N/A,Did Not,0,0,Yes,3,0,Yes,Did Not,9,failed at low goal   good overall
+2408,N/A,Did Not,Did Not,N/A,N/A,Did Not,N/A,Did Not,Did Not,0,0,No,0,0,Yes,Auto Touch,1,got stuck several times
+63,Can't,N/A,N/A,Tele Pass,N/A,Can't,Tele Pass,N/A,,,0,0,Yes,0,3,Yes,Auto Touch,7,Solid bot
+3138,Tele Pass,N/A,N/A,Can't,N/A,Can't,Tele Pass,N/A,,,0,0,No,0,3,No, Did Not ,5,Seems  to be only a breacher and low ball shooter. Average
+4284,Can't,N/A,N/A,Can't,N/A,Can't,N/A,Can't,,,0,0,No,0,0,Yes, Did Not ,2,Fouled during auto. Has Issues with Porticulis. Maybe it cant even, Didnt do much else.
+4213,N/A,Can't,N/A,Tele Pass,Tele Pass,N/A,Auto Pass,N/A,,,0,0,No,2,0,Yes, Did Not ,6,Tends to knock into teamates while they are shooting
+2040,N/A,Tele Pass,N/A,Tele Pass,Can't,N/A,Tele Pass,N/A,,,0,0,No,0,0,Yes,Auto Touch,7,
+3814,Tele Pass,N/A,N/A,Can't,N/A,Can't,Can't,N/A,,,0,0,No,0,0,Yes, Did Not ,4,treads broke
+3324,Can't,N/A,Can't,N/A,N/A,Can't,Tele Pass,N/A,,,0,0,No,0,4,Yes, Did Not ,1,
+3201,Can't,N/A,Auto Pass,N/A,N/A,Can't,Can't,N/A,,,0,0,No,0,0,Yes, Did Not ,1,Very Stiff. went in defense
+245,N/A,Tele Pass,Tele Pass,N/A,Tele Pass,N/A,Can't,N/A,,,0,0,No,0,0,No, Did Not ,1,
+1014,N/A,Can't,N/A,Can't,N/A,Can't,Can't,N/A,,,2,1,No,0,0,Yes, Did Not ,1,good shooting 
+4284,N/A,Can't,N/A,Auto Pass,N/A,Can't,Can't,N/A,,,0,0,No,0,0,Yes,Auto Touch,3,took the first half of the game to get across ramparts and never scored
+279,N/A,Can't,Auto Pass,N/A,N/A,Auto Pass,Can't,N/A,,,0,0,No,0,0,Yes, Did Not ,4,slow robot and lost connection way too easy
+3000,N/A,Can't,N/A,Can't,N/A,Auto Pass,Can't,N/A,,,0,2,No,0,0,No, Did Not ,5,decent
+3821,Can't,N/A,N/A,Can't,N/A,Can't,Can't,N/A,,,0,0,No,0,0,Yes, Did Not ,1,got stuck
+1249,Did Not,N/A,N/A,Did Not,Did Not,N/A,N/A,Did Not,Did Not,0,0,No,0,0,No,Did Not,1,The robot got stuck and wouldn't move
+0063,N/A,Auto Pass,N/A,Did Not,Did Not,N/A,Tele Pass,N/A,Tele Pass,0,0,Yes,0,2,No,Auto Touch,1,
+0279,N/A,Did Not,N/A,Tele Pass,N/A,Did Not,Auto Pass,N/A,Did Not,0,0,Yes,0,0,Yes,Auto Touch,1,
+1985,Did Not,N/A,Auto Pass,N/A,N/A,Did Not,N/A,Tele Pass,Tele Pass,0,0,No,0,2,Yes,Did Not,3,
+2051,N/A,Did Not,Auto Pass,N/A,N/A,Did Not,Tele Pass,N/A,Did Not,0,0,No,0,0,Yes,Did Not,3,
+5809,Did Not,N/A,Did Not,N/A,N/A,Did Not,Auto Pass,N/A,Did Not,0,0,No,0,2,Yes,Did Not,1,
+2603,N/A,Did Not,Did Not,N/A,N/A,Did Not,Tele Pass,N/A,Did Not,0,0,No,0,3,No,Did Not,1,
+0554,N/A,Did Not,Did Not,N/A,N/A,Did Not,Did Not,N/A,Auto Pass,0,0,No,0,0,Yes,Did Not,5,
+4213,N/A,Did Not,N/A,Tele Pass,N/A,Tele Pass,Did Not,N/A,Auto Pass,0,0,No,0,0,Yes,Did Not,6,
+6181,N/A,Did Not,N/A,Did Not,N/A,Did Not,Did Not,N/A,Did Not,0,0,No,0,0,No,Did Not,0,lost connection
+5493,N/A,Did Not,Did Not,N/A,N/A,Tele Pass,Did Not,N/A,Did Not,0,0,No,0,2,No,Did Not,7,
+4115,N/A,Did Not,Tele Pass,N/A,N/A,Did Not,Did Not,N/A,Did Not,0,0,No,0,0,No,Auto Touch,1,
+0120,N/A,Did Not,Did Not,N/A,N/A,Did Not,Did Not,N/A,Auto Pass,0,0,No,5,0,Yes,Did Not,7,reliable catapult shooter. from what's visible not a spectacular breacher
+3010,N/A,Did Not,N/A,Did Not,N/A,Did Not,Tele Pass,N/A,Did Not,0,0,Yes,3,0,Yes,Did Not,6,semi reliable shooter. bad center of gravity. reliable scaler
+5808,N/A,Did Not,N/A,Did Not,Did Not,N/A,Tele Pass,N/A,Did Not,0,0,No,0,1,No,Did Not,4,semi good breacher. got stuck in drawbridge.
+0337,N/A,Tele Pass,Did Not,N/A,N/A,Did Not,Auto Pass,N/A,Did Not,0,0,Yes,0,0,Yes,Auto Touch,1,good breach bot. showed shooting potential but lacked any other working teammates. go wv!
+0128,N/A,Did Not,N/A,Did Not,Did Not,N/A,Tele Pass,N/A,Did Not,0,0,No,0,0,Yes,Did Not,1,didnt move for most of match
+4028,N/A,Did Not,N/A,Auto Pass,Did Not,N/A,Tele Pass,N/A,Did Not,0,0,No,3,0,Yes,Auto Touch,5,rich and arrogant. dont seem to be team players. bad at using what they have.
+2603,N/A,Did Not,Tele Pass,N/A,N/A,Did Not,Tele Pass,N/A,Did Not,0,0,No,0,4,No,Did Not,4,They got stuck in the moat, neeed help out
+6084,N/A,Did Not,N/A,Auto Pass,N/A,Did Not,Did Not,N/A,Did Not,0,0,No,0,0,Yes,Auto Touch,2,
+3266,N/A,Did Not,N/A,Tele Pass,Did Not,N/A,Did Not,N/A,Tele Pass,0,0,No,0,1,No,Did Not,3,They should not be picked
+0128,N/A,Did Not,N/A,Did Not,N/A,Tele Pass,N/A,Tele Pass,Did Not,0,0,Yes,0,1,Yes,Auto Touch,1,auto was bad
+0554,N/A,Did Not,Auto Pass,N/A,N/A,Tele Pass,N/A,Tele Pass,Did Not,0,0,No,0,2,Yes,Did Not,5,Pretty good
+2603,N/A,Did Not,N/A,Tele Pass,Did Not,N/A,Tele Pass,N/A,Did Not,0,0,No,0,3,No,Auto Touch,6,Got stuck in auto
+0063,N/A,Did Not,Tele Pass,N/A,N/A,Tele Pass,Tele Pass,N/A,Did Not,0,0,Yes,0,3,No,Auto Touch,1,
+4028,N/A,Did Not,Auto Pass,N/A,N/A,Did Not,Did Not,N/A,Did Not,0,0,No,5,0,Yes,Auto Touch,1,They are God337,N/A,Tele Pass,N/A,Can't,N/A,Can't,N/A,Auto Pass,,,0,0,No,0,1,Yes,Auto Touch,6,good bot tried to scale but failed
+1308,Tele Pass,N/A,Can't,N/A,N/A,Can't,N/A,Tele Pass,Tele Pass,0,0,No,0,0,No, Did Not ,5,
+4085,N/A,Tele Pass,Tele Pass,N/A,N/A,Tele Pass,N/A,Auto Pass,,,0,0,No,0,2,Yes,Auto Touch,5,good driver
+5413,N/A,Tele Pass,N/A,Auto Pass,Can't,N/A,N/A,Can't,,,0,0,No,0,0,Yes,Auto Touch,1,Hit and miss shooter more miss
+5667,Tele Pass,N/A,Tele Pass,N/A,Can't,N/A,N/A,Can't,,,0,0,No,0,4,No, Did Not ,6,
+3484,Can't,N/A,N/A,Can't,N/A,Tele Pass,N/A,Can't,Tele Pass,0,0,Yes,0,2,No, Did Not ,1,
+4085,N/A,Tele Pass,N/A,Tele Pass,N/A,Tele Pass,Auto Pass,N/A,,,0,0,Yes,0,1,Yes,Auto Touch,8,
+2051,N/A,Can't,N/A,Tele Pass,Can't,N/A,Can't,N/A,,,0,0,No,0,0,Yes,Auto Touch,3,
+3201,Can't,N/A,Tele Pass,N/A,N/A,Can't,Tele Pass,N/A,,,0,0,No,0,0,No, Did Not ,4,control erros also I missed the entire auto
+0,N/A,Can't,Tele Pass,N/A,N/A,Can't,Auto Pass,N/A,,,0,0,No,0,3,Yes, Did Not ,7,threw the ball to 48 so they could get a high goal
+4213,N/A,Can't,Can't,N/A,N/A,Tele Pass,Auto Pass,N/A,,,1,0,No,1,0,Yes, Did Not ,9,
+3814,N/A,Can't,Tele Pass,N/A,N/A,Can't,Can't,N/A,,,0,0,Yes,0,1,Yes,Auto Touch,1,
+3010,N/A,Can't,Auto Pass,N/A,N/A,Tele Pass,Can't,N/A,Auto Pass,0,0,Yes,0,0,Yes, Did Not ,5,6181 dead on the field0000,N/A,Auto Pass,N/A,Auto Pass,N/A,Auto Pass,N/A,Auto Pass,Auto Pass,2,-3,Yes,0,-4,No,Auto Touch,1,
+6105,N/A,Did Not,N/A,Did Not,N/A,Did Not,N/A,Did Not,Did Not,0,0,No,0,0,No,Did Not,1,didnt move
+4256,N/A,Auto Pass,N/A,Did Not,Did Not,N/A,Did Not,N/A,Auto Pass,1,0,No,0,0,Yes,Auto Touch,6,good bot but not the best teamwork
+5811,Did Not,N/A,Did Not,N/A,N/A,Did Not,Did Not,N/A,Auto Pass,0,5,No,0,0,Yes,Auto Touch,1,they did good and were a reliable low goal shooter but did not do that many defenses
+0048,Did Not,N/A,Auto Pass,N/A,N/A,Did Not,Did Not,N/A,Auto Pass,4,1,No,0,0,Yes,Did Not,6,good shooter but sometimes will mess up
+0120,N/A,Did Not,Did Not,N/A,N/A,Did Not,Did Not,N/A,Auto Pass,3,0,No,0,0,No,Did Not,8,good at teamwork and has a good shooter and drivetrain                             
+3777,N/A,Did Not,Did Not,N/A,N/A,Did Not,Auto Pass,N/A,Auto Pass,0,0,No,0,0,Yes,Auto Touch,4,Rectangular body makes it hard to go through defenses  and wasted time and were not able to capture 
+6084,N/A,Did Not,Auto Pass,N/A,N/A,Did Not,Auto Pass,N/A,Auto Pass,0,2,No,0,0,Yes,Auto Touch,7,half reliable shooting system3324,Did Not,N/A,Tele Pass,N/A,N/A,Did Not,N/A,Tele Pass,Did Not,0,0,No,0,3,Yes,Auto Touch,1,got stuck on low bar
+2603,N/A,Did Not,N/A,Auto Pass,N/A,Did Not,N/A,Tele Pass,Tele Pass,0,0,No,0,2,No,Auto Touch,1,
+6181,Did Not,N/A,N/A,Auto Pass,N/A,Did Not,N/A,Did Not,Did Not,0,0,No,0,0,Yes,Did Not,3,
+4115,N/A,Did Not,N/A,Did Not,N/A,Did Not,N/A,Auto Pass,Tele Pass,0,0,No,0,0,Yes,Did Not,1,
+3201,Did Not,N/A,N/A,Auto Pass,N/A,Did Not,N/A,Tele Pass,Did Not,0,0,No,0,1,Yes,Did Not,1,
+0279,N/A,Did Not,N/A,Tele Pass,N/A,Did Not,N/A,Did Not,Did Not,0,0,Yes,0,0,No,Did Not,3,
+6185,N/A,Did Not,N/A,Did Not,N/A,Did Not,N/A,Did Not,Tele Pass,0,0,No,0,0,No,Did Not,1,acted deffensive
+4115,N/A,Did Not,N/A,Did Not,Did Not,N/A,Did Not,N/A,Auto Pass,0,0,No,0,0,Yes,Did Not,3,
+5749,N/A,Did Not,Did Not,N/A,N/A,Did Not,N/A,Did Not,Tele Pass,0,0,No,0,2,Yes,Auto Touch,3,
+1708,Did Not,N/A,Did Not,N/A,N/A,Did Not,N/A,Tele Pass,Auto Pass,0,0,No,0,3,Yes,Did Not,3,
+4145,N/A,Auto Pass,Did Not,N/A,N/A,Did Not,Tele Pass,N/A,Tele Pass,1,0,No,0,1,Yes,Did Not,1,penalty used blue secret passageway as a path
+6185,N/A,Did Not,N/A,Did Not,N/A,Did Not,N/A,Did Not,Tele Pass,0,0,No,0,0,No,Did Not,3,defensive bot
+6181,Did Not,N/A,Did Not,N/A,N/A,Did Not,Did Not,N/A,Did Not,0,0,No,0,0,No,Did Not,1,did nothing3010,Did Not,N/A,N/A,Did Not,N/A,Did Not,N/A,Auto Pass,Did Not,1,0,No,0,1,No,Did Not,5,
+2051,N/A,Did Not,N/A,Did Not,N/A,Tele Pass,N/A,Auto Pass,Did Not,0,0,No,0,1,Yes,Did Not,5,
+0461,N/A,Tele Pass,N/A,Tele Pass,N/A,Tele Pass,N/A,Tele Pass,Did Not,0,0,No,0,0,Yes,Auto Touch,1,Pretty good def bot
+0337,N/A,Tele Pass,N/A,Did Not,Tele Pass,N/A,Did Not,N/A,Auto Pass,0,0,Yes,0,0,Yes,Auto Touch,7,Nice Scaling
+3138,N/A,Did Not,Tele Pass,N/A,N/A,Tele Pass,N/A,Auto Pass,Did Not,0,0,No,5,0,No,Did Not,9,Did very well
+5809,Did Not,N/A,Tele Pass,N/A,N/A,Tele Pass,N/A,Auto Pass,Did Not,0,0,No,0,1,Yes,Did Not,7,Ok Bot
+5667,N/A,Did Not,Auto Pass,N/A,N/A,Tele Pass,Did Not,N/A,Did Not,0,0,No,0,0,Yes,Auto Touch,6,A OK
+1249,Did Not,N/A,N/A,Did Not,N/A,Did Not,Did Not,N/A,Did Not,0,0,No,0,0,No,Did Not,1,Terrible
+0337,Tele Pass,N/A,Tele Pass,N/A,N/A,Tele Pass,Auto Pass,N/A,Did Not,0,0,No,0,0,Yes,Auto Touch,7,239,Can't,N/A,Auto Pass,N/A,N/A,Can't,N/A,Auto Pass,Auto Pass,0,0,No,2,1,Yes, Did Not ,7,they preformed very well
+6084,N/A,Auto Pass,N/A,Can't,N/A,Can't,N/A,Can't,Auto Pass,0,0,No,0,0,No, Did Not ,1,
+3266,N/A,Can't,N/A,Can't,N/A,Can't,N/A,Can't,Auto Pass,0,0,No,0,0,No, Did Not ,1,
+48,N/A,Can't,N/A,Can't,Can't,N/A,N/A,Can't,,,2,0,No,0,0,No, Did Not ,1,
+63,N/A,Can't,N/A,Auto Pass,N/A,Tele Pass,N/A,Can't,Tele Pass,0,2,No,0,0,No, Did Not ,1,
+868,N/A,Can't,N/A,Auto Pass,N/A,Can't,N/A,Can't,Tele Pass,0,0,No,7,0,No, Did Not ,1,
+1939,N/A,Can't,N/A,Can't,N/A,Can't,Can't,N/A,Tele Pass,0,0,No,0,0,Yes, Did Not ,4,
+3260,N/A,Can't,N/A,Tele Pass,Tele Pass,N/A,Can't,N/A,,,0,0,No,0,0,Yes, Did Not ,5,
+245,N/A,Can't,Auto Pass,N/A,N/A,Can't,Tele Pass,N/A,,,0,0,No,4,0,Yes, Did Not ,8,
+4920,Can't,N/A,Tele Pass,N/A,N/A,Tele Pass,N/A,Can't,,,0,0,No,0,0,No, Did Not ,4,
+3821,N/A,Can't,Tele Pass,N/A,N/A,Tele Pass,Can't,N/A,,,0,0,No,0,0,No, Did Not ,4,
+279,N/A,Can't,N/A,Can't,Tele Pass,N/A,Can't,N/A,,,0,0,Yes,0,0,No, Did Not ,3,5492,Did Not,N/A,Auto Pass,N/A,N/A,Did Not,Did Not,N/A,Did Not,0,0,No,0,0,No,Did Not,4,left side drive died5749,N/A,Can't,N/A,Can't,N/A,Can't,N/A,Can't,Tele Pass,0,0,No,0,0,No, Did Not ,1,
+5413,N/A,Can't,N/A,Auto Pass,N/A,Can't,N/A,Can't,,,4,0,Yes,0,0,No, Did Not ,1,
+868,N/A,Can't,Auto Pass,N/A,N/A,Can't,N/A,Can't,Auto Pass,2,0,No,0,0,No, Did Not ,1,
+4920,N/A,Can't,N/A,Can't,N/A,Can't,N/A,Can't,Tele Pass,1,0,No,0,0,No, Did Not ,1,
+63,N/A,Can't,N/A,Can't,N/A,Auto Pass,N/A,Can't,Tele Pass,0,0,No,0,1,No, Did Not ,1,
+2408,N/A,Can't,Can't,N/A,N/A,Tele Pass,N/A,Can't,,,0,0,No,0,0,No, Did Not ,1,
+1014,N/A,Can't,N/A,Auto Pass,N/A,Tele Pass,N/A,Can't,,,0,0,No,0,0,No, Did Not ,1,
+554,N/A,Can't,N/A,Auto Pass,N/A,Can't,N/A,Can't,,,0,0,No,0,0,No, Did Not ,1,
+3000,Can't,N/A,N/A,Can't,N/A,Can't,Can't,N/A,,,0,0,No,0,1,No, Did Not ,1,died in the water
+5413,N/A,Can't,Auto Pass,N/A,N/A,Can't,N/A,Can't,,,6,0,Yes,0,0,No, Did Not ,1,
+4521,N/A,Did Not,N/A,Auto Pass,N/A,Did Not,Did Not,N/A,Did Not,0,0,No,0,4,Yes,Auto Touch,1,
+4256,N/A,Auto Pass,Did Not,N/A,N/A,Did Not,N/A,Did Not,Tele Pass,0,0,No,1,0,Yes,Did Not,1,
+4028,N/A,Did Not,N/A,Tele Pass,N/A,Did Not,Auto Pass,N/A,Auto Pass,0,0,No,4,0,Yes,Did Not,1,3266,N/A,Can't,Tele Pass,N/A,N/A,Can't,Auto Pass,N/A,,,0,0,No,0,0,Yes, Did Not ,1,
+554,N/A,Can't,N/A,Can't,N/A,Can't,Auto Pass,N/A,,,0,0,No,0,1,Yes, Did Not ,1,
+3504,N/A,Can't,Can't,N/A,N/A,Tele Pass,N/A,Auto Pass,,,0,0,No,0,4,Yes, Did Not ,1,
+279,N/A,Can't,N/A,Auto Pass,N/A,Tele Pass,Can't,N/A,,,0,0,Yes,0,0,Yes,Auto Touch,1,
+337,N/A,Tele Pass,Auto Pass,N/A,N/A,Can't,Tele Pass,N/A,,,0,0,No,0,0,Yes, Did Not ,1,
+3814,N/A,Auto Pass,Tele Pass,N/A,N/A,Can't,Can't,N/A,,,0,0,Yes,0,0,Yes,Auto Touch,1,
+1249,Can't,N/A,N/A,Tele Pass,N/A,Can't,Can't,N/A,,,0,0,No,0,0,No, Did Not ,1,
+5811,Can't,N/A,Can't,N/A,N/A,Can't,N/A,Auto Pass,,,0,0,No,0,3,Yes, Did Not ,1,
+3504,N/A,Tele Pass,N/A,Can't,N/A,Tele Pass,Auto Pass,N/A,,,0,0,No,0,2,Yes, Did Not ,7,
+3138,Can't,N/A,N/A,Can't,N/A,Tele Pass,Auto Pass,N/A,,,0,0,No,1,1,Yes, Did Not ,1,
+1308,Can't,N/A,N/A,Auto Pass,N/A,Tele Pass,Can't,N/A,,,0,0,No,0,0,Yes,Auto Touch,3,cant really do much1014,Tele Pass,N/A,Tele Pass,N/A,Did Not,N/A,Did Not,N/A,Tele Pass,1,0,No,0,0,Yes,Did Not,1,
+5484,Did Not,N/A,Did Not,N/A,Did Not,N/A,Tele Pass,N/A,Auto Pass,0,0,No,0,0,Yes,Auto Touch,1,
+0144,N/A,Did Not,Did Not,N/A,N/A,Did Not,Did Not,N/A,Tele Pass,0,0,No,0,1,Yes,Did Not,1,Prone to sticking to obstacles and stalling
+4085,Did Not,N/A,N/A,Did Not,N/A,Tele Pass,Did Not,N/A,Auto Pass,0,0,Yes,0,0,Yes,Auto Touch,3,
+6084,Did Not,N/A,Did Not,N/A,N/A,Did Not,Tele Pass,N/A,Auto Pass,0,0,No,0,0,Yes,Auto Touch,1,no shooting and they like to run into the guards of the defences 
+0120,N/A,Did Not,N/A,Did Not,N/A,Did Not,Did Not,N/A,Auto Pass,0,0,No,4,0,Yes,Auto Touch,5,good shooting bad breaching 
+4145,N/A,Tele Pass,N/A,Did Not,N/A,Did Not,Did Not,N/A,Auto Pass,1,0,No,0,3,Yes,Did Not,6,holy crap they made a high goal in auto.
+6185,N/A,Did Not,N/A,Did Not,N/A,Did Not,Did Not,N/A,Did Not,0,0,No,0,0,No,Did Not,1,Defending/ got to tower
+2603,N/A,Did Not,Tele Pass,N/A,N/A,Did Not,Did Not,N/A,Tele Pass,0,0,No,0,3,Yes,Auto Touch,4,Got stuck on low bar in auto
+2051,N/A,Did Not,N/A,Did Not,N/A,Did Not,Auto Pass,N/A,Tele Pass,0,0,No,0,0,Yes,Auto Touch,1,
+3484,Did Not,N/A,N/A,Did Not,N/A,Did Not,Did Not,N/A,Tele Pass,0,1,No,0,2,Yes,Did Not,1,
+4085,N/A,Tele Pass,N/A,Tele Pass,N/A,Tele Pass,N/A,Tele Pass,Did Not,0,0,Yes,0,0,Yes,Auto Touch,1,Stuck on low bar in auto/ knocked the rough terrain off
+3324,Did Not,N/A,N/A,Did Not,N/A,Did Not,Did Not,N/A,Auto Pass,0,0,No,0,4,Yes,Auto Touch,1,
+4256,N/A,Tele Pass,Tele Pass,N/A,Did Not,N/A,N/A,Tele Pass,Tele Pass,0,0,No,0,0,Yes,Auto Touch,1,at the end they moved to let another lesser bot onto their place on the bottom of the tower they then made it to their spot on time some good bro stuff they pulled
+4145,N/A,Did Not,N/A,Did Not,N/A,Did Not,N/A,Did Not,Auto Pass,1,0,No,1,2,Yes,Auto Touch,1,hot dank memes that make you moist and dry
+2040,Did Not,N/A,Did Not,N/A,N/A,Did Not,N/A,Auto Pass,Did Not,0,0,No,2,0,Yes,Auto Touch,1,
+3777,N/A,Did Not,Did Not,N/A,N/A,Did Not,N/A,Did Not,Auto Pass,0,0,No,0,1,Yes,Auto Touch,1,
+1014,N/A,Tele Pass,N/A,Did Not,Did Not,N/A,N/A,Did Not,Tele Pass,0,0,No,0,3,No,Did Not,4,
+5811,Tele Pass,N/A,Did Not,N/A,N/A,Tele Pass,N/A,Did Not,Auto Pass,0,0,No,0,3,Yes,Auto Touch,3,eh
+1038,Did Not,N/A,N/A,Did Not,N/A,Did Not,N/A,Tele Pass,Auto Pass,0,0,Yes,4,0,Yes,Auto Touch,6,mmm good
+3138,N/A,Tele Pass,Tele Pass,N/A,N/A,Did Not,Auto Pass,N/A,Did Not,0,0,No,0,3,Yes,Auto Touch,6,
+0279,Did Not,N/A,Tele Pass,N/A,N/A,Did Not,N/A,Did Not,Did Not,0,0,No,0,0,No,Did Not,1,They're having some trouble
+1985,N/A,Tele Pass,N/A,Tele Pass,N/A,Did Not,N/A,Tele Pass,Did Not,0,0,No,0,1,No,Did Not,1,Scaling failed
+3201,N/A,Did Not,N/A,Tele Pass,N/A,Did Not,N/A,Auto Pass,Did Not,0,0,No,0,2,Yes,Auto Touch,6,
+4028,N/A,Did Not,N/A,Auto Pass,Did Not,N/A,N/A,Did Not,Did Not,0,0,No,3,0,Yes,Auto Touch,8,
+0063,N/A,Did Not,Auto Pass,N/A,N/A,Tele Pass,N/A,Did Not,Did Not,0,0,Yes,0,3,Yes,Auto Touch,8,Solid bot
+5413,N/A,Did Not,N/A,Auto Pass,Did Not,N/A,N/A,Tele Pass,Did Not,0,0,Yes,2,0,Yes,Auto Touch,7,
+3000,N/A,Did Not,Did Not,N/A,N/A,Did Not,Did Not,N/A,Did Not,0,0,No,0,0,No,Did Not,1,Did absoloutely nothing
+0337,N/A,Tele Pass,N/A,Did Not,N/A,Tele Pass,Auto Pass,N/A,Did Not,0,0,No,0,0,Yes,Auto Touch,1,
+1308,N/A,Auto Pass,N/A,Did Not,N/A,Did Not,N/A,Did Not,Tele Pass,0,0,No,0,0,No,Did Not,1,
+1708,N/A,Did Not,N/A,Did Not,N/A,Did Not,N/A,Did Not,Auto Pass,0,0,No,0,4,No,Did Not,1,
+0048,N/A,Did Not,N/A,Did Not,N/A,Did Not,N/A,Tele Pass,Tele Pass,0,0,No,1,0,No,Did Not,4,
+0554,N/A,Did Not,N/A,Did Not,N/A,Did Not,N/A,Did Not,Auto Pass,0,0,No,0,0,No,Did Not,1,
+5667,N/A,Tele Pass,N/A,Did Not,N/A,Did Not,N/A,Tele Pass,Did Not,0,0,No,1,0,No,Did Not,1,
+2016,N/A,Tele Pass,N/A,Did Not,N/A,Did Not,N/A,Tele Pass,Auto Pass,0,0,No,2,1,No,Did Not,5,
+0120,N/A,Did Not,N/A,Did Not,N/A,Did Not,N/A,Did Not,Auto Pass,0,0,No,1,0,No,Did Not,6,0279,N/A,Did Not,Tele Pass,N/A,N/A,Tele Pass,Tele Pass,N/A,Did Not,0,0,Yes,0,0,Yes,Auto Touch,7,Good Def Bot
+3266,N/A,Did Not,Did Not,N/A,N/A,Tele Pass,N/A,Auto Pass,Did Not,0,0,No,0,0,Yes,Auto Touch,5,ok def bot
+3777,N/A,Did Not,N/A,Tele Pass,N/A,Did Not,N/A,Tele Pass,Tele Pass,0,0,No,0,0,Yes,Did Not,5,Broken Shooter ok at def
+3260,N/A,Tele Pass,N/A,Tele Pass,N/A,Did Not,N/A,Tele Pass,Did Not,0,0,No,4,0,Yes,Auto Touch,9,Very impressive Took out most Def
+2399,N/A,Did Not,N/A,Did Not,Tele Pass,N/A,N/A,Auto Pass,Tele Pass,0,0,No,0,1,Yes,Auto Touch,6,Average Bot
+3821,N/A,Did Not,Did Not,N/A,N/A,Did Not,N/A,Auto Pass,Did Not,0,0,No,0,0,Yes,Auto Touch,3,Can only do one def
+4256,N/A,Did Not,N/A,Tele Pass,Did Not,N/A,N/A,Auto Pass,Tele Pass,0,0,No,1,0,Yes,Auto Touch,6,Good def bot
+1249,N/A,Did Not,Did Not,N/A,N/A,Did Not,Did Not,N/A,Did Not,0,0,No,0,0,No,Did Not,1,Terrible
+0868,N/A,Did Not,N/A,Tele Pass,N/A,Did Not,Did Not,N/A,Tele Pass,0,0,No,2,3,Yes,Auto Touch,9,Really Impressive0868,Did Not,N/A,Did Not,N/A,N/A,Did Not,Tele Pass,N/A,Auto Pass,0,0,No,1,6,Yes,Did Not,6,good at countering a defence bot
+4145,N/A,Did Not,N/A,Did Not,Did Not,N/A,N/A,Did Not,Auto Pass,1,0,No,2,0,Yes,Did Not,6,
+2051,Tele Pass,N/A,Did Not,N/A,N/A,Did Not,N/A,Did Not,Auto Pass,0,0,No,0,0,Yes,Did Not,4,slightly indesicive 
+3484,N/A,Tele Pass,N/A,Did Not,Did Not,N/A,N/A,Did Not,Tele Pass,0,1,No,0,3,No,Did Not,1,
+5484,N/A,Did Not,N/A,Did Not,N/A,Did Not,N/A,Did Not,Auto Pass,0,0,No,3,0,Yes,Did Not,5,had a hard time getting a ball   good shot
+1038,N/A,Auto Pass,N/A,Did Not,N/A,Did Not,N/A,Tele Pass,Did Not,0,0,No,3,0,Yes,Did Not,1,tried to scale but failed
+3492,Did Not,N/A,Tele Pass,N/A,N/A,Did Not,N/A,Auto Pass,Did Not,0,0,No,0,2,Yes,Did Not,1,slight indecisiveness
+4920,N/A,Did Not,N/A,Did Not,N/A,Did Not,N/A,Did Not,Tele Pass,0,0,No,0,1,No,Did Not,3,
+0144,N/A,Did Not,N/A,Did Not,N/A,Did Not,Did Not,N/A,Tele Pass,0,0,No,0,0,Yes,Auto Touch,1,defencesive   indesicive4085,N/A,Can't,N/A,Tele Pass,N/A,Auto Pass,Can't,N/A,Auto Pass,0,1,No,0,0,No, Did Not ,1,
+245,N/A,Tele Pass,N/A,Tele Pass,N/A,Can't,Tele Pass,N/A,,,0,0,No,1,0,No, Did Not ,1,
+4920,N/A,Can't,N/A,Can't,N/A,Can't,Tele Pass,N/A,Tele Pass,0,0,No,0,0,No, Did Not ,6,
+2016,Tele Pass,N/A,Can't,N/A,N/A,Can't,N/A,Can't,Auto Pass,0,0,No,0,2,Yes, Did Not ,6,
+3260,N/A,Tele Pass,Tele Pass,N/A,N/A,Can't,Tele Pass,N/A,,,0,0,No,0,0,Yes,Auto Touch,8,
+4028,Can't,N/A,Auto Pass,N/A,N/A,Can't,Can't,N/A,,,0,0,No,4,0,Yes, Did Not ,8,
+451,N/A,Tele Pass,Tele Pass,N/A,N/A,Tele Pass,Can't,N/A,,,0,0,No,0,0,Yes, Did Not ,5,
+5607,Can't,N/A,Auto Pass,N/A,N/A,Can't,Auto Pass,N/A,,,0,0,No,0,0,Yes,Auto Touch,5,good drive train just had trouble with the shooter
+5811,N/A,Auto Pass,N/A,Can't,Can't,N/A,N/A,Auto Pass,Auto Pass,0,3,No,0,0,Yes,Auto Touch,6,only a low goal shooter but have the potential to do more obstacles
+2408,Can't,N/A,Can't,N/A,N/A,Can't,N/A,Auto Pass,,,0,0,No,0,0,Yes, Did Not ,2,had a horrible shooter and only did one defense
+2603,N/A,Can't,N/A,Can't,N/A,Can't,N/A,Auto Pass,Auto Pass,0,2,No,0,0,Yes,Auto Touch,5,could only go through low bar through the back
+6105,N/A,Can't,N/A,Can't,N/A,Can't,Auto Pass,N/A,Auto Pass,0,0,No,0,0,Yes,Auto Touch,5,The bot gaurded instead of going for points
+1939,N/A,Auto Pass,N/A,Can't,N/A,Can't,N/A,Auto Pass,Auto Pass,0,4,No,0,0,Yes,Auto Touch,6,was good on the defences but was only a low goal shooter
+451,Auto Pass,N/A,Auto Pass,N/A,N/A,Auto Pass,N/A,Can't,,,2,0,No,0,0,Yes,Auto Touch,6,did really good and played a solid game
+4284,N/A,Can't,N/A,Can't,N/A,Can't,Can't,N/A,,,0,0,No,0,0,No, Did Not ,1,technical difficulties so coudn't move
+1014,N/A,Auto Pass,N/A,Auto Pass,N/A,Can't,Can't,N/A,Auto Pass,2,2,No,0,0,Yes,Auto Touch,7,good shooting and intake system but it is easy to push around by other bots1308,Tele Pass,N/A,Auto Pass,N/A,N/A,Did Not,Tele Pass,N/A,Tele Pass,0,0,No,0,0,Yes,Did Not,9,great defence breaking bot
+0245,N/A,Did Not,N/A,Auto Pass,Did Not,N/A,Did Not,N/A,Did Not,0,0,No,5,0,Yes,Did Not,9,very consistent shooter. did not miss any shots
+3010,Did Not,N/A,Did Not,N/A,N/A,Did Not,N/A,Tele Pass,Did Not,0,0,No,2,0,Yes,Auto Touch,7,got stuck on moat. otherwise good bot
+6181,N/A,Did Not,N/A,Did Not,Did Not,N/A,N/A,Did Not,Tele Pass,0,0,No,0,0,Yes,Auto Touch,4,
+5809,N/A,Did Not,N/A,Tele Pass,N/A,Did Not,N/A,Tele Pass,Did Not,0,0,No,0,0,No,Auto Touch,5,
+5492,N/A,Did Not,N/A,Auto Pass,N/A,Did Not,N/A,Tele Pass,Tele Pass,0,0,Yes,1,1,Yes,Did Not,6,
+3138,Did Not,N/A,Auto Pass,N/A,N/A,Did Not,Did Not,N/A,Did Not,0,0,No,0,2,No,Did Not,6,
+3324,N/A,Tele Pass,N/A,Tele Pass,N/A,Did Not,N/A,Auto Pass,Did Not,0,0,No,0,3,Yes,Did Not,7,
+4213,N/A,Did Not,N/A,Tele Pass,N/A,Did Not,Auto Pass,N/A,Did Not,0,0,No,3,0,Yes,Did Not,8,good shooter
